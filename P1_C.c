@@ -1,3 +1,7 @@
+//Selecciona dos pines de cada uno de los puertos B, C y D del microcontrolador. Declara cada 
+//uno de estos pines como salida y asígnales un valor en alto para encender los leds conectados a ellos, 
+//en total tendrás seis leds en el formato que elijas.
+
 #include <avr/io.h>
 #include <util/delay.h> // Para usar la función de delay
 
