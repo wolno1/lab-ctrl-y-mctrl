@@ -4,6 +4,11 @@
 //Turn LED 3 on when there are no buttons pressed
 //Turn LED 4 on when not all buttons are pressed
 
+//When testing this in Proteus, it worked perfect, but when trying it irl it didn't
+
+//Also teacher changed the assignment so I am not going to try to fix this
+
+
 .include "m328pdef.inc" ; Incluir el archivo de definición del microcontrolador
 
 ; Definir constantes de pines
